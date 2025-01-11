@@ -34,30 +34,6 @@ I'm **Diako Jamshidi**, a passionate **Front-End Developer** 🖥️ who loves c
 
 ---
 
-## 📈 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diako-jamshidi&show_icons=true&theme=radical" alt="Diako's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diako-jamshidi&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</div>
-
----
-
-## 📂 Featured Projects  
-
-### 🌟 [Project Name 1](#)  
-*A brief description of this project.*  
-
-### 🌟 [Project Name 2](#)  
-*A brief description of this project.*  
-
-### 🌟 [Project Name 3](#)  
-*A brief description of this project.*  
-
-Explore more in my [repositories](https://github.com/diako-jamshidi?tab=repositories)!
-
----
-
 ## 🌐 Connect With Me  
 
 <div align="center">
