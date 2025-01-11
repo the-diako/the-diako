@@ -1,6 +1,6 @@
-<p align="center">
-  <h1 style="color: red; font-family: monospace;">Diako Jamshidi</h1>
-</p>
+<h1 align="center">
+  Diako Jamshidi
+</h1>
 
 Hi, I'm Diako Jamshidi 👨‍💻, a Front-End Developer.
 I work with HTML, CSS, JavaScript, TypeScript, React ⚛️, and Tailwind CSS 🖤 to build clean and responsive web applications. 
@@ -34,14 +34,6 @@ I’m always learning 📚 and excited to take on new challenges in front-end de
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
-
----
-
-## 🔗 Connect with Me  
-
-- [LinkedIn](https://www.linkedin.com/in/diako-jamshidi)  
-- [Twitter](https://twitter.com/diako-jamshidi)  
-- [Portfolio](https://diako-jamshidi.com)  
 
 ---
 
