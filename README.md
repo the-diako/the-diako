@@ -1,14 +1,14 @@
-# Hi there! 👋 Welcome to My GitHub Profile!  
+# **Diako Jamshidi** 👨‍💻  
 
-I'm **Diako Jamshidi**, a passionate **Front-End Developer** 🖥️ 
-who loves crafting user-friendly, responsive, and visually appealing web applications.  
+I'm a passionate **Front-End Developer** 🖥️ who loves crafting user-friendly, responsive, and visually appealing web applications.  
 
 ---
 
 ## 🚀 About Me  
 - 🌱 I’m currently learning **advanced React patterns and state management tools**.  
 - 🔭 I’m working on **building modern, responsive web applications**.  
-- 📫 How to reach me: **[diako.gamshidy.1234@gmail.com]**.  
+- 📫 How to reach me: **[diako.gamshidy.1234@gmail.com](mailto:diako.gamshidy.1234@gmail.com)**.  
+
 ---
 
 ## 🛠️ Technologies & Tools  
@@ -32,14 +32,5 @@ who loves crafting user-friendly, responsive, and visually appealing web applica
 
 ---
 
-## 🌐 Connect With Me  
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/diako-jamshidi"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://twitter.com/diako-jamshidi"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://diako-jamshidi.com"><img src="https://img.shields.io/badge/-Portfolio-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge" /></a>
-</div>
-
----
-
 Thanks for visiting my profile! 😊  
+
