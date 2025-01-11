@@ -1,6 +1,6 @@
-
-<!-- Header Section -->
-# Hi there, I'm **Diako Jamshidi** 👨‍💻  
+<p align="center">
+  # Hi there, I'm <span style="color: red;">**Diako Jamshidi**</span> 👨‍💻  
+</p>
 
 I'm a passionate **Front-End Developer** 🖥️ with a love for crafting user-friendly, responsive, and visually appealing web applications.  
 
