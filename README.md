@@ -1,5 +1,5 @@
 <p align="center">
-  # Hi there, I'm <span style="color: red;">**Diako Jamshidi**</span> 👨‍💻  
+  I'm <span style="color: red; font-family: monospace;">Diako Jamshidi</span>  
 </p>
 
 I'm a passionate **Front-End Developer** 🖥️ with a love for crafting user-friendly, responsive, and visually appealing web applications.  
@@ -31,14 +31,6 @@ I'm a passionate **Front-End Developer** 🖥️ with a love for crafting user-f
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diako-jamshidi&show_icons=true&theme=radical" alt="Diako's GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diako-jamshidi&layout=compact&theme=radical" alt="Top Languages" width="400" />
-</div>
 
 ---
 
@@ -51,7 +43,3 @@ I'm a passionate **Front-End Developer** 🖥️ with a love for crafting user-f
 ---
 
 Thanks for visiting my profile! 😊  
-
-
-
-
