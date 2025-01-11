@@ -1,8 +1,9 @@
 <p align="center">
-  I'm <span style="color: red; font-family: monospace;">Diako Jamshidi</span>  
+  <h1 style="color: red; font-family: monospace;">Diako Jamshidi</h1>
 </p>
 
-I'm a passionate **Front-End Developer** 🖥️ with a love for crafting user-friendly, responsive, and visually appealing web applications.  
+I'm a passionate Front-End Developer with a love 
+for crafting user-friendly, responsive, and visually appealing web applications.  
 
 ---
 
@@ -30,7 +31,6 @@ I'm a passionate **Front-End Developer** 🖥️ with a love for crafting user-f
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
-
 
 ---
 
