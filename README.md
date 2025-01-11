@@ -2,8 +2,11 @@
   <h1 style="color: red; font-family: monospace;">Diako Jamshidi</h1>
 </p>
 
-I'm a passionate Front-End Developer with a love 
-for crafting user-friendly, responsive, and visually appealing web applications.  
+Hi, I'm Diako Jamshidi 👨‍💻, a Front-End Developer.
+I work with HTML, CSS, JavaScript, TypeScript, React ⚛️, and Tailwind CSS 🖤 to build clean and responsive web applications. 
+I'm also experienced with Git and GitHub for version control 🔧. 
+I’m always learning 📚 and excited to take on new challenges in front-end development 🚀.
+
 
 ---
 
